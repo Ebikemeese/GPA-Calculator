@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    /*color: black;*/
+}
+
+.wrapper {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+}
+
+.col-3 {
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+table {
+    margin-top: 30px;
+}
+
+.display-none {
+    display: none;
+}
+
+tbody td {
+    text-transform: uppercase;
+}
+
+#calc {
+    background-color: green;
+}
+
+#clear {
+    background-color: yelloe;
+}
